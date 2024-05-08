@@ -1,0 +1,27 @@
+1.DSA
+2.DBMS
+3.OOPS
+4.WEB Development 
+5.Projects
+6.Computer Networks 
+7.Operating Systems
+8.JAVA
+
+Questions that are being asked in Interviews ->
+
+1. What are the real life implementation of stack and queue ??
+
+2. TCP/UDP full form
+3. Swap two integers without using extra space
+4. Is INT A a object or not
+5. What is an API, types of API calls
+6. MongodB and SQL queries 
+7. Pattern Printing (half inverted triangle)
+8. What is Polymorphism (types)
+9. Reverse a Linked List
+10.Software Models (Agile, Waterfall.etc)
+11. Given an array of prime numbers, return only those values at indexes whose indexes are prime
+
+
+
+
