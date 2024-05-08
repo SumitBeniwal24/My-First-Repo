@@ -1,0 +1,56 @@
+windows + shift + right arrow - to move the extended screen to desktop 
+
+ctrl + c = break the execution in terminal and enter a new statement to execute 
+
+ctrl + shift + n = create new folder
+
+shift + f3 = change the case of word between upercase and lowercase (for microsoft ppt )
+
+ctrl + windows + d = create a new desktop 
+
+ctrl + windows + arrow keys = to switch between the desktops 
+
+ctrl + windows + f4 = to close the desktop 
+
+windows + comma = to take a look at the desktop 
+
+ctrl + shift + esc = opens task manager 
+
+windows + A = opens action center 
+
+Windows Button Shortcuts 
+WINDOWS - OPEN AND CLOSE STRAT MENU
+WIN + D - Display desktop by minizing all opened windows
+WIN + E - Open Explorer
+WIN + I - Open the settings
+WIN + L - Locks the screen
+WIN + M - Minimize the Opened windows
+WIN + Shift + M - Restore Minimized Windows
+WIN + P - Opens Presentation Display Mode
+WIN + Q - Open Search
+WIN + R - Run Dialog Box
+WIN + S - Search
+WIN + T - Selection on Taskbar
+WIN + X - Opens Quick Link Menu
+WIN + , - Show desktop Temperorily
+WIN + Pause - Display System Properties
+WIN + '+' - ZOOM IN
+WIN + '-' - ZOOM OUT
+WIN + esc - Exits the Magnifier
+
+Youtube Shortcuts 
+1 I - Open Miniplayer in Youtube
+2 T- Open Cinema view on Youtube
+3. - Jump into Search Bar from the youtube video
+4. Shift + greater than - Increase Video Speed
+5. Shift +  Less than - Decrease Video Speed
+6. C - View Caption Subtitles
+7. F- Full Screen 
+8. Esc - Close Full Screen
+9. 0 OR HOME - Goto the Beginning of Video 2 to 9 = %age 
+10. K - Pause Video and play video Press, and . move frame by frame
+11 J - backward 10 seconds  L - 10 seconds forward
+12. Right arrow - 5 seconds & Left arrow - 5 seconds back
+13. M-  Mute
+14. Increase Volume +  Decrease Volume -
+15. Shift + N - Next Video
